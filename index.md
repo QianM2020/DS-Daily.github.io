@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Some features of Stack Overflow’s and Trend of Programming Technology?
+   A data-based approach using Stack Overflow’s developer survey data from 2017.
 
-You can use the [editor on GitHub](https://github.com/QianM2020/DS-Daily.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
+  Stack Overflow is an open community for anyone that codes. In its homepage, we can find the introduction like 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201219104812665.png)
 
-### Markdown
+> ’We build products that empower developers and connect them to solutions that enable productivity, growth, and discovery. ’  or  ‘We help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job. ’
+  
+As a programming tiro, I never used  Stack Overflow before and quite interested in whehter it's a proper site for a novice like me to look for programming advices. In the other hand, are the resourses obtained and shared in Stack Overflow really practical and Professional ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Also, coding is sometime tricky and difficult to find out the bug. I wonder what kind of Stack Overflow users can take advantage ot the open community efficiently. 
 
-```markdown
-Syntax highlighted code block
+I used data from Stackoverflow’s 2017 Annual Developer Survey, to take a closer look at these question.In  the survey, it also provides data about the programming  technologies ( like programming language, framework, database and platform) which have been used by  most professional developers  in the past year​, and which they ​want​ to work in ​over the next year. It help me to get an idea about the dev tech trend.	
+	
+The survey data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of respondents related to software development and data analytics. There were more than 150 questions as a part of the survey, including:
 
-# test 1
-## Header 2
-### Header 3
+> “Do you program as a hobby or contribute to open source projects?”
+“Which of the following best describes the highest level of formal education that you’ve completed?”
+“How often do you work from home or remotely?”
 
-- Bulleted
-- List
+## Part I Is Stack Overflow professional?
 
-1. Numbered
-2. List
+The first question is how practically and professionally the open community works. Let’s take a closer look at 2 results from the survey 
 
-**Bold** and _Italic_ and `Code` text
+> **‘Professional’** (**Q:** Which of the following best describes you?)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QianM2020/DS-Daily.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ and 
+> **‘EmploymentStatus status’**( **Q:**Which of the following best describes your current employment status?)
+> 
+Here you can see in descending order the proportion of individual survey respondents ( can be regarded as Stack Overflow users) . The clear leaders are Professional developers and Full-time employees.
+A little more than 70% of respondents suggest the open community is mostly used by professional developers, and 15% suggest students. These 2 groups composes about 90% of total respondents. Similarly, more than 70% of respondents are employed full-time, and over 90% are employees.
