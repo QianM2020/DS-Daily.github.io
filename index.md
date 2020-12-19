@@ -24,7 +24,7 @@ The survey data covers 64,000 reviews from 213 countries and territories. The su
 
 The first question is how practically and professionally the open community works. Let’s take a closer look at 2 results from the survey 
 
-> **‘Professional’** (**Q:** Which of the following best describes you?)
+> **‘Professional’** (Q: Which of the following best describes you?)
 
  and 
 > **‘EmploymentStatus status’**( **Q:**Which of the following best describes your current employment status?)
